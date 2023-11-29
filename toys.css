@@ -1,0 +1,19 @@
+.headli{
+    margin-top: 6%;
+    position: absolute;
+    height:70px;
+    width:100%;
+   
+    
+
+}
+
+.code{
+    color:rgb(0, 0, 0);
+    margin-left: -70%;
+    
+}
+
+body{
+    background-image: url("imagine/cute.jpg");
+}
